@@ -1,0 +1,517 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1610" height="485" viewBox="0 0 1610 485">
+  <g id="Group_39" data-name="Group 39" transform="translate(-100 -95)">
+    <g id="Group_38" data-name="Group 38" transform="translate(100 95)">
+      <g id="Group_1" data-name="Group 1">
+        <g id="Rectangle_51" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="S.NO" transform="translate(17 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">S.NO</tspan></text>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-2" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+        <text id="REMARKS" transform="translate(18.078 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">REMARKS</tspan></text>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-3" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+        <text id="CONSIGNEE" transform="translate(16.585 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">CONSIGNEE</tspan></text>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-4" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+        <text id="SHIPPER" transform="translate(17.092 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">SHIPPER</tspan></text>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-5" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+        <text id="PCS" transform="translate(17.133 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">PCS</tspan></text>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-6" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+        <text id="WT_KG_" data-name="WT (KG)" transform="translate(16.737 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">WT (KG)</tspan></text>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-7" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+        <text id="CN.NO" transform="translate(17.223 26)" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">CN.NO</tspan></text>
+      </g>
+    </g>
+    <g id="Group_27" data-name="Group 27" transform="translate(100 536)">
+      <g id="Group_1-2" data-name="Group 1">
+        <g id="Rectangle_51-8" data-name="Rectangle 51" transform="translate(0 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_10" data-name="10" transform="translate(17 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">10</tspan></text>
+      </g>
+      <g id="Group_7-2" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-9" data-name="Rectangle 51" transform="translate(0.078 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-2" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-10" data-name="Rectangle 51" transform="translate(-0.415 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-2" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-11" data-name="Rectangle 51" transform="translate(0.092 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-2" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-12" data-name="Rectangle 51" transform="translate(0.133 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-2" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-13" data-name="Rectangle 51" transform="translate(-0.264 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-14" data-name="Rectangle 51" transform="translate(0.223 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(100 492)">
+      <g id="Group_1-3" data-name="Group 1">
+        <g id="Rectangle_51-15" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_9" data-name="9" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">9</tspan></text>
+      </g>
+      <g id="Group_7-3" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-16" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-3" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-17" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-3" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-18" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-3" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-19" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-3" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-20" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2-3" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-21" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(100 448)">
+      <g id="Group_1-4" data-name="Group 1">
+        <g id="Rectangle_51-22" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_8" data-name="8" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">8</tspan></text>
+      </g>
+      <g id="Group_7-4" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-23" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-4" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-24" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-4" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-25" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-4" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-26" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-4" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-27" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(100 404)">
+      <g id="Group_1-5" data-name="Group 1">
+        <g id="Rectangle_51-28" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_7" data-name="7" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">7</tspan></text>
+      </g>
+      <g id="Group_7-5" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-29" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-5" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-30" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-5" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-31" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-5" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-32" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-5" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-33" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2-4" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-34" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(100 360)">
+      <g id="Group_1-6" data-name="Group 1">
+        <g id="Rectangle_51-35" data-name="Rectangle 51" transform="translate(0 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_6" data-name="6" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">6</tspan></text>
+      </g>
+      <g id="Group_7-6" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-36" data-name="Rectangle 51" transform="translate(0.078 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-6" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-37" data-name="Rectangle 51" transform="translate(-0.415 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-6" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-38" data-name="Rectangle 51" transform="translate(0.092 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-6" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-39" data-name="Rectangle 51" transform="translate(0.133 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-6" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-40" data-name="Rectangle 51" transform="translate(-0.264 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2-5" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-41" data-name="Rectangle 51" transform="translate(0.223 0)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(100 316)">
+      <g id="Group_1-7" data-name="Group 1">
+        <g id="Rectangle_51-42" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_5" data-name="5" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">5</tspan></text>
+      </g>
+      <g id="Group_7-7" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-43" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-7" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-44" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-7" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-45" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-7" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-46" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-7" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-47" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2-6" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-48" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(100 272)">
+      <g id="Group_1-8" data-name="Group 1">
+        <g id="Rectangle_51-49" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_4" data-name="4" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <g id="Group_7-8" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-50" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_6-8" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-51" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_5-8" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-52" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_4-8" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-53" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_3-8" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-54" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2-7" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-55" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(100 227)">
+      <g id="Group_1-9" data-name="Group 1">
+        <g id="Rectangle_51-56" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="44" fill="none"/>
+        </g>
+        <text id="_3" data-name="3" transform="translate(17 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_7-9" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-57" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="44" fill="none"/>
+        </g>
+        <text id="Via_Skardu" data-name="Via Skardu" transform="translate(18.078 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Via Skardu</tspan></text>
+      </g>
+      <g id="Group_6-9" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-58" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="44" fill="none"/>
+        </g>
+        <text id="Uzma" transform="translate(16.585 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Uzma</tspan></text>
+      </g>
+      <g id="Group_5-9" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-59" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="44" fill="none"/>
+        </g>
+        <text id="Akmal" transform="translate(17.092 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Akmal</tspan></text>
+      </g>
+      <g id="Group_4-9" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-60" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="44" fill="none"/>
+        </g>
+        <text id="_80" data-name="80" transform="translate(17.133 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">80</tspan></text>
+      </g>
+      <g id="Group_3-9" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-61" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="44" fill="none"/>
+        </g>
+        <text id="_30" data-name="30" transform="translate(16.737 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">30</tspan></text>
+      </g>
+      <g id="Group_2-8" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-62" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="44" fill="none"/>
+        </g>
+        <text id="_3456778" data-name="3456778" transform="translate(17.223 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">3456778</tspan></text>
+      </g>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(100 183)">
+      <g id="Group_1-10" data-name="Group 1">
+        <g id="Rectangle_51-63" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_2" data-name="2" transform="translate(17 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g id="Group_7-10" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-64" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+        <text id="Via_Jhelum" data-name="Via Jhelum" transform="translate(18.078 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Via Jhelum</tspan></text>
+      </g>
+      <g id="Group_6-10" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-65" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+        <text id="Uzair" transform="translate(16.585 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Uzair</tspan></text>
+      </g>
+      <g id="Group_5-10" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-66" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+        <text id="Babar" transform="translate(17.092 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Babar</tspan></text>
+      </g>
+      <g id="Group_4-10" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-67" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+        <text id="_100" data-name="100" transform="translate(17.133 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">100</tspan></text>
+      </g>
+      <g id="Group_3-10" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-68" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+        <text id="_50" data-name="50" transform="translate(16.737 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">50</tspan></text>
+      </g>
+      <g id="Group_2-9" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-69" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+        <text id="_98754321" data-name="98754321" transform="translate(17.223 27)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">98754321</tspan></text>
+      </g>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(100 139)">
+      <g id="Group_1-11" data-name="Group 1">
+        <g id="Rectangle_51-70" data-name="Rectangle 51" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="275" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="274" height="43" fill="none"/>
+        </g>
+        <text id="_1" data-name="1" transform="translate(17 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <g id="Group_7-11" data-name="Group 7" transform="translate(1287.922)">
+        <g id="Rectangle_51-71" data-name="Rectangle 51" transform="translate(0.078)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="322" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="321" height="43" fill="none"/>
+        </g>
+        <text id="Via_Gujrat" data-name="Via Gujrat" transform="translate(18.078 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Via Gujrat</tspan></text>
+      </g>
+      <g id="Group_6-11" data-name="Group 6" transform="translate(1134.415)">
+        <g id="Rectangle_51-72" data-name="Rectangle 51" transform="translate(-0.415)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="154" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="153" height="43" fill="none"/>
+        </g>
+        <text id="Osama" transform="translate(16.585 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Osama</tspan></text>
+      </g>
+      <g id="Group_5-11" data-name="Group 5" transform="translate(980.908)">
+        <g id="Rectangle_51-73" data-name="Rectangle 51" transform="translate(0.092)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="153" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="152" height="43" fill="none"/>
+        </g>
+        <text id="Rizwan" transform="translate(17.092 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Rizwan</tspan></text>
+      </g>
+      <g id="Group_4-11" data-name="Group 4" transform="translate(825.867)">
+        <g id="Rectangle_51-74" data-name="Rectangle 51" transform="translate(0.133)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="155" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="154" height="43" fill="none"/>
+        </g>
+        <text id="_300" data-name="300" transform="translate(17.133 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">300</tspan></text>
+      </g>
+      <g id="Group_3-11" data-name="Group 3" transform="translate(646.263)">
+        <g id="Rectangle_51-75" data-name="Rectangle 51" transform="translate(-0.264)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="180" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="179" height="43" fill="none"/>
+        </g>
+        <text id="_100-2" data-name="100" transform="translate(16.737 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">100</tspan></text>
+      </g>
+      <g id="Group_2-10" data-name="Group 2" transform="translate(274.777)">
+        <g id="Rectangle_51-76" data-name="Rectangle 51" transform="translate(0.223)" fill="#fff" stroke="#000" stroke-width="1">
+          <rect width="371" height="44" stroke="none"/>
+          <rect x="0.5" y="0.5" width="370" height="43" fill="none"/>
+        </g>
+        <text id="_34567899" data-name="34567899" transform="translate(17.223 26)" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">34567899</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

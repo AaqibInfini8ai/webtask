@@ -1,0 +1,30 @@
+/* .dashboard_page{
+    background-color: #eee!important;
+    border-color: #eee!important;
+} */
+.backgroundImage{
+    background-image: url(../../../assets//maskgroup.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 18px
+}
+.card{
+    background-color: rgb(149, 0, 20);
+    border-color: rgb(149, 0, 20);
+    /* text-align: end; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+}
+.card_2{
+    background-color: rgb(8, 8, 8);
+    border-color: rgb(22, 21, 21);
+    /* text-align: end; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+}
